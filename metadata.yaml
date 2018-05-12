@@ -1,0 +1,38 @@
+_repo: Children-of-the-Wild_16077
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Roberts, Charles G. D., Sir
+    aliases:
+    - Roberts, Charles George Douglas, Sir
+    - Roberts, Sir Charles George Douglas
+    birthdate: 1860
+    deathdate: 1943
+    gutenberg_agent_id: '2272'
+    url: http://www.gutenberg.org/2009/agents/2272
+    wikipedia: http://en.wikipedia.org/wiki/Charles_G._D._Roberts
+description: ''
+gutenberg_issued: '2005-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16077'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'QL'
+- !lcsh 'Animals -- Juvenile literature'
+tableOfContents: The little furry ones that slide downhill -- The black imps of pine-top
+  -- Young Grumpy and the one-eyed gander -- Little Sword and the inkmaker -- Rocked
+  in the cradle of the deep -- Teddy Bear's bee tree -- The snowhouse baby -- Little
+  silk wing -- A little alien in the wilderness -- What he saw when he kept still
+  -- The little villager and his unfriendly guests -- The baby and the bear -- The
+  little sly one -- The daring of Stripes Terror-Tail -- Dagger Bill and the Water
+  Babies.
+title: Children of the Wild
+url: http://www.gutenberg.org/ebooks/16077
